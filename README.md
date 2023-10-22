@@ -9,4 +9,5 @@
 1929 - [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) <br>
 
 ### Linked Lists
+21 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 206 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
